@@ -11,16 +11,17 @@ Projects involving software development, database management, and system integra
 
 📫 How to reach me:
 
-LinkedIn: https://www.linkedin.com/in/leandro-oliveira-02358b123/
+LinkedIn
 Email: leo-byte@hotmail.com
-
 😄 Pronouns:
 He/Him
 
-⚡ Fun fact:
-- Enthusiast of movies and series.
-- I enjoy cooking in my spare time.
-- I love organizing my workspace 😄.
+⚡ Fun facts:
+
+Enthusiast of movies and series.
+I enjoy cooking in my spare time.
+I love organizing my workspace. 😄
+
 
 <!---
 leandroolii/leandroolii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
